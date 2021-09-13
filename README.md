@@ -1,10 +1,10 @@
 # UFOs
 
 ## OVERVIEW & PURPOSE:
-The project is supposed to allow our users to search through the table for specific city information. The project requires the use of HTML, CSS, Javascript, Python and beautiful soup for scraping, extracting and filtering the data retreived from scraping the UFO data retreived from data.js file.
+The project is supposed to allow our users to search through the table for specific city information. The project requires the use of HTML, CSS, Javascript, extracting and filtering the data retreived from scraping the UFO data retreived from data.js file.
 
 ## RESULTS:
-The project involves the use of HTML for the User Interface, Javascript for running scraping script, CSS for styling the page, Python and beautiful soup for scraping, extracting and filtering the data.
+The project involves the use of HTML for the User Interface, Javascript for running scraping script, CSS for styling the page for extracting and filtering the data.
 The filtering process can be done by adding city name, country name, and to get accurate results for specific city or region, the date can be applied to the filter for a more narrowed search.
 
 ![ufo-0](https://user-images.githubusercontent.com/86158802/133011068-ad881f6e-10f8-480e-969c-b4bf1dcde42b.PNG)
